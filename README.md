@@ -6,3 +6,5 @@
     Non-local Means Denoising will be used to remove any noise in the input video frames before applying the cartoon effect.
     
     Reference: Cartoonize Reality with OpenCV and Raspberry Pi by Monisha Macharla
+    https://iot4beginners.com/cartoonize-reality-with-opencv-and-raspberry-pi/
+
