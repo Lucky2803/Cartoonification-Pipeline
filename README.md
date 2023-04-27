@@ -4,3 +4,5 @@
     The algorithm will use several image processing techniques to achieve the cartoon effect.
     The image processing techniques include edge detection, color histogram calculation, and K-Means clustering.
     Non-local Means Denoising will be used to remove any noise in the input video frames before applying the cartoon effect.
+    
+    Reference: Cartoonize Reality with OpenCV and Raspberry Pi by Monisha Macharla
